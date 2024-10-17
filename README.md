@@ -2,3 +2,4 @@
 Criando venv
 - python3 -m venv .langchain
 - source .langchain/bin/activate
+
